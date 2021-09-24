@@ -1,3 +1,3 @@
-cp src/index.html doc/
-cp src/favicon.ico doc/
-cp -rp src/js doc/
+cp src/index.html docs/
+cp src/favicon.ico docs/
+cp -rp src/js docs/
